@@ -1,0 +1,21 @@
+<Construction_Materials>
+
+    <Material>
+        <Material_Name>Regolith_Bricks</Material_Name>
+        <Quantity_Available>1000</Quantity_Available>
+        <Cost_Per_Unit>0.5</Cost_Per_Unit>
+    </Material>
+
+    <Material>
+        <Material_Name>Aerogel_Insulation</Material_Name>
+        <Quantity_Available>200</Quantity_Available>
+        <Cost_Per_Unit>5</Cost_Per_Unit>
+    </Material>
+
+    <Material>
+        <Material_Name>Aluminum_Windows</Material_Name>
+        <Quantity_Available>150</Quantity_Available>
+        <Cost_Per_Unit>20</Cost_Per_Unit>
+    </Material>
+
+</Construction_Materials>

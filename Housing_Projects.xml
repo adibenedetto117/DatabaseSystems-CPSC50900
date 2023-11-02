@@ -1,0 +1,20 @@
+<Housing_Projects>
+    <Project>
+        <Project_Name>MartinMeadows</Project_Name>
+        <Location>Mars</Location>
+        <Project_Status>Planning</Project_Status>
+    </Project>
+
+    <Project>
+        <Project_Name>Earth_Simulation_Center</Project_Name>
+        <Location>Earth</Location>
+        <Project_Status>Ongoing</Project_Status>
+    </Project>
+
+    <Project>
+        <Project_Name>OlympupOasis</Project_Name>
+        <Location>Mars</Location>
+        <Project_Status>Completed</Project_Status>
+    </Project>
+    
+</Housing_Projects>

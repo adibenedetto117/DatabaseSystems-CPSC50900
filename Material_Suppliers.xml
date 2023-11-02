@@ -1,0 +1,19 @@
+<Material_Suppliers>
+    <Supplier>
+        <Supplier_Name>Martian_Materials</Supplier_Name>
+        <Material_Type>Regolith/Adobe Bricks</Material_Type>
+        <Origin_Planet>Mars</Origin_Planet>
+    </Supplier>
+
+    <Supplier>
+        <Supplier_Name>Earth_Supplies</Supplier_Name>
+        <Material_Type>Aerogel Insulation</Material_Type>
+        <Origin_Planet>Earth</Origin_Planet>
+    </Supplier>
+
+    <Supplier>
+        <Supplier_Name>Venus_Vendors</Supplier_Name>
+        <Material_Type>Aluminum Windows</Material_Type>
+        <Origin_Planet>Venus</Origin_Planet>
+    </Supplier>
+</Material_Suppliers>

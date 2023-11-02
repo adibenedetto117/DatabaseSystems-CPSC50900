@@ -1,0 +1,22 @@
+<Offices>
+
+    <Office>
+        <Office_Location>Earth_center</Office_Location>
+        <Number_Of_Employees>100</Number_Of_Employees>
+        <Office_Type>Primary</Office_Type>
+    </Office>
+
+    <Office>
+        <Office_Location>Molympus</Office_Location>
+        <Number_Of_Employees>50</Number_Of_Employees>
+        <Office_Type>Secondary</Office_Type>
+    </Office>
+    
+    <Office>
+        <Office_Location>Aonia_Terra</Office_Location>
+        <Number_Of_Employees>30</Number_Of_Employees>
+        <Office_Type>Research</Office_Type>
+    </Office>
+    
+
+</Offices>
